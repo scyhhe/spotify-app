@@ -1,0 +1,23 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+// Variables
+@import "variables";
+
+
+// Bootstrap | Bulma
+// @import '~bootstrap/scss/bootstrap';
+@import '~buefy/lib/buefy.css';
+@import '~vue-loading-overlay/dist/vue-loading.min.css';
+
+/* CUSTOM CSS */
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.tabs ul li.is-active {
+  background: #3C3B3B;
+  opacity: 1;
+}
+
