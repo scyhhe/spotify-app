@@ -4,15 +4,15 @@
 
 This generally useless app lets you login with your **Spotify account** and see basic information about your profile, such as:
 
-    - Profile info & followers :star:
+   * Profile info & followers :star:
 
-    - Your most recent tracks :musical_note:
+   * Your most recent tracks :musical_note:
 
-    - Your favorite artists :hear_no_evil:
+   * Your favorite artists :hear_no_evil:
 
-    - Your playlists :notes:
+   * Your playlists :notes:
 
-    - *soon* Search songs & artists on spotify and follow / add them :mag:
+   * *soon* Search songs & artists on spotify and follow / add them :mag:
 
 ## Installation
 
