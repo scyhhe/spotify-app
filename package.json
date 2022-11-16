@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.2.0",
-        "babel-loader": "^6.4.1",
+        "babel-loader": "^9.1.0",
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-stage-2": "^6.24.1",
         "vue": "^2.5.7",
